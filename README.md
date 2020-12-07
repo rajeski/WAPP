@@ -5,4 +5,3 @@ Weather Application
 - c) created README.md file; 
 - d) inputted code; and, 
 - e) added JSON (for testing purposes).
-- [This is an external link to a hosted version] (https://vigorous-mestorf-c83b66.netlify.app/) 

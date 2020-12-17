@@ -8,3 +8,5 @@ Weather Application
 - c) created README.md file; 
 - d) inputted code; and, 
 - e) added JSON (for testing purposes).
+
+### [Github, Live Site] (https://rajeski.github.io/WAPP/)
